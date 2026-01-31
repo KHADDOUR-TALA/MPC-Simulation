@@ -8,6 +8,10 @@ This repository presents a trajectory tracking simulation for an autonomous vehi
 **Vehicle Model:** Kinematic vehicle model
 **Reference Trajectory:** Waypoint- and step-input-based trajectory
 **Simulation Environment:** MATLAB / Simulink
+### Vehicle Kinematic Model
+<p align="center">
+  <img src="imgs/vehicle_kinematic_model.png" width="300">
+</p>
 
 
 ## Project Files
