@@ -38,12 +38,12 @@ This repository presents a trajectory tracking simulation for an autonomous vehi
 
 ### Lateral Positions of Reference and MPC Tracking
 <p align="center">
-  <img src="images/MPC_tracking_lateral.png" width="400">
+  <img src="imgs/MPC_tracking_lateral.png" width="400">
 </p>
 
 ### Yaw Angles of Reference and MPC
 <p align="center">
-  <img src="images/MPC_yaw_angle_result.png" width="400">
+  <img src="imgs/MPC_yaw_angle_result.png" width="400">
 </p>
 
 ## Conclusion
