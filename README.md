@@ -10,7 +10,7 @@ This repository presents a trajectory tracking simulation for an autonomous vehi
 **Simulation Environment:** MATLAB / Simulink
 ### Vehicle Kinematic Model
 <p align="center">
-  <img src="imgs/vehicle_kinematic_model.png" width="300">
+  <img src="imgs/kinematic_model.png" width="300">
 </p>
 
 
